@@ -1,1 +1,1 @@
-Just basic shell scripting
+Tasks directory readme

@@ -1,2 +1,1 @@
-This is a README
-Script 0 creates an alias
+this is everything about variable, I hope it helps you
